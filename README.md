@@ -82,7 +82,7 @@ Python
 ax = folded[folded.odd_mask].scatter(s=1, label="odd transits")
 folded[folded.even_mask].scatter(ax=ax, s=1, color="red", label="even transits")
 ```
-##📊 Results & Case Analysis (TIC 261136679)
+## 📊 Results & Case Analysis (TIC 261136679)
 Running pipeline diagnostics on target TIC 261136679 yielded the following output metrics and structural behavior:
 
 Best Period: 13.7167 d
